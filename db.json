@@ -1,0 +1,158 @@
+{
+  "users": [
+    {
+      "Name": "ahsan khan",
+      "audience": "Lateral",
+      "email": "ahsankhan@gmail.com",
+      "id": 2
+    },
+    {
+      "Name": "Honey Singh",
+      "audience": "Experienced",
+      "email": "honeysingh@gmail.com",
+      "id": 3
+    },
+    {
+      "Name": "TestId",
+      "audience": "Experienced",
+      "email": "test@gmail.com",
+      "id": 4
+    },
+    {
+      "Name": "prateek vyas",
+      "audience": "Lateral",
+      "email": "prateekvyas@gmail.com",
+      "id": 5
+    },
+    {
+      "Name": "Ahsn",
+      "audience": "Lateral",
+      "email": "mohammadasadkhan50@gmail.com",
+      "id": 6
+    }
+  ],
+  "trainer": [
+    {
+      "name": "Pankaj Sir",
+      "email": "pankaj@gmail.com",
+      "subject": "JAVASCRIPT",
+      "id": 2
+    },
+    {
+      "name": "Syed Wahabuddin",
+      "email": "syedWhabuddin@gmail.com",
+      "subject": "c++",
+      "id": 3
+    },
+    {
+      "name": "Goku",
+      "email": "goku@gmail.com",
+      "subject": "C#",
+      "id": 4
+    },
+    {
+      "name": "Vinay",
+      "email": "vinay@gmail.com",
+      "subject": "C#",
+      "id": 5
+    },
+    {
+      "name": "Pankaj sir",
+      "email": "aasad@gmail.com",
+      "subject": "C++",
+      "id": 6
+    },
+    {
+      "name": "Manish Sir",
+      "email": "manish@gmailcom",
+      "subject": "c",
+      "id": 7
+    }
+  ],
+  "resources": [
+    {
+      "system": "Laptop",
+      "connectivity": "Mobile Connectivity",
+      "test": "",
+      "id": 7
+    },
+    {
+      "system": "Desktop",
+      "connectivity": "Mobile Connectivity",
+      "test": "",
+      "id": 8
+    },
+    {
+      "system": "Laptop",
+      "connectivity": "BroadBand",
+      "id": 9
+    }
+  ],
+  "curriculum": [
+    {
+      "training_for": "Experienced",
+      "prerequisite": "React Master",
+      "resources": "Desktop",
+      "start_date": "2022-02-19",
+      "end_date": "2022-03-03",
+      "start_time": "09:00",
+      "end_time": "18:00",
+      "mode_of_training": "Online",
+      "attendees": "32",
+      "trainer_name": "Atul Sir",
+      "id": 6
+    },
+    {
+      "training_for": "Experienced",
+      "prerequisite": "UI Basics",
+      "resources": "Desktop",
+      "start_date": "2022-02-04",
+      "end_date": "2022-03-13",
+      "start_time": "09:00",
+      "end_time": "18:00",
+      "mode_of_training": "Online",
+      "attendees": "27",
+      "trainer_name": "Sandeep Sir",
+      "id": 7
+    },
+    {
+      "training_for": "Fresher",
+      "prerequisite": "UI Basics",
+      "resources": "Desktop",
+      "start_date": "2022-02-26",
+      "end_date": "2022-03-13",
+      "start_time": "11:34",
+      "end_time": "14:36",
+      "mode_of_training": "Online",
+      "attendees": "20",
+      "trainer_name": "Anita Mam",
+      "id": 11
+    },
+    {
+      "training_for": "Fresher",
+      "prerequisite": "UI Basics",
+      "resources": "Desktop",
+      "start_date": "2022-02-26",
+      "end_date": "2022-03-13",
+      "start_time": "11:34",
+      "end_time": "14:36",
+      "mode_of_training": "Online",
+      "attendees": "20",
+      "trainer_name": "Vinay Sir",
+      "id": 11
+    },
+    {
+      "training_for": "Experienced",
+      "prerequisite": "UI Basics",
+      "resources": "Desktop",
+      "start_date": "2022-02-01",
+      "end_date": "2022-03-13",
+      "start_time": "01:00",
+      "end_time": "13:00",
+      "mode_of_training": "Online",
+      "attendees": "45",
+      "trainer_name": "Pankaj Sharma",
+      "id": 12
+    }
+  ]
+}
